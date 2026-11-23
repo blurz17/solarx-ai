@@ -4,6 +4,18 @@ End-to-end Machine Learning system for solar photovoltaic (PV) stations. Powered
 
 ---
 
+## Application Screenshots
+
+| Power Simulator | Loss & Health Audit |
+|---|---|
+| ![Simulator](solar%20screens/Screenshot%202026-11-24%20012634.png) | ![Loss Audit](solar%20screens/Screenshot%202026-11-24%20012701.png) |
+
+| Live Weather Forecast | Model Benchmarks |
+|---|---|
+| ![Forecast](solar%20screens/Screenshot%202026-11-24%20012719.png) | ![Benchmarks](solar%20screens/Screenshot%202026-11-24%20012708.png) |
+
+---
+
 ## Core Capabilities
 
 1. **Performance Estimation (`Simulator`)**
